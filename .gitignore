@@ -1,0 +1,37 @@
+# Local context, agent configuration, and private records
+.agent/
+.agent-context-mm/
+.memory-mm/
+.claude/
+.opencode/
+.cursor/
+.gemini/
+.mcp.json
+*.toon
+OLD/
+OLD-BK/
+temp-old/
+backups/
+logs/
+
+# Game data, saves, credentials and operation journals
+*.nw
+*.vdf
+saves/
+secrets/
+*.jsonl
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
