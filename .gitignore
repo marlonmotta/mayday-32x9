@@ -1,13 +1,4 @@
-# Local context, agent configuration, and private records
-.agent/
-.agent-context-mm/
-.memory-mm/
-.claude/
-.opencode/
-.cursor/
-.gemini/
-.mcp.json
-*.toon
+# Local notes and private records
 OLD/
 OLD-BK/
 temp-old/
